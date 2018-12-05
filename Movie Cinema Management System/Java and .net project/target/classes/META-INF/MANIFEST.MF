@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: nadee
+Build-Jdk: 10.0.2
+Implementation-Title: sep3
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.sep3
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/restServices
+Created-By: Maven Integration for Eclipse
+
