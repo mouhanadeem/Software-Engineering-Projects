@@ -9,7 +9,7 @@ First semester was started with simple programming and it was my first experienc
 
 In second semester I have studied more advance level programming in java. I have dealt with Socket and RMI for connection between client and server. I also got the knowledge on design patterns for example, Visitor, factory, adopter, proxy, observable, facade, flyweight etc. The project we have decided to work on was Client Management system. We have studied PostgreSQL for database and implemented in our project for storing information’s. In that project we got the highest grade and a better learning. Most of the coding part me and one of my group mates implemented. 
 
-The third semester started with heterogeneous programming knowledge i.e. advanced java and .NET. We have studied how to work with three tier architecture and distributed system. We have got the experience on webservices in both languages. Cinema Movie management system we are working on. We have decided that our client should be in .Net and webservices in java. We are still working on project but most of the part is completed as Webservices are implemented and client is working. Only the connection is remaining. 
+The third semester started with heterogeneous programming knowledge i.e. advanced java and .NET. We have studied how to work with three tier architecture and distributed system. We have got the experience on webservices in both languages. Cinema Movie management system we have worked on. We have decided that our client should be in .Net and webservices in java. For Server and data side, jersey spring boot and hibernate framework have been used.
 
 I hope you will enjoy my coding style.
 
