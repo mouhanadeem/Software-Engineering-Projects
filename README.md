@@ -3,8 +3,6 @@ Projects in Java and .Net
 
 Decryption:
 
-In first three semesters I got a good command on programming as most of the courses were on Java and project management.
-
 Movie World Management System
 
 Third semester was started with heterogeneous programming knowledge i.e. advanced java and .NET. The purpose of this project was to develop a system by which customers are able to stream movies and book tickets for a specific cinema online. Movie World System (MWS) is a desktop application created for streaming movies, viewing their description and relevant information including trailers, plus it provides the customer with a service to buy a ticket for movies.
