@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Punjabi Resturant</string>
+    <string name="logo">PUNJABI RESTURANT</string>
+    <string name="slogan">Join thousands of users in Denmark and enjoy tasty indian foods</string>
+    <string name="hint_phone">Phone No</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Full Name</string>
+    <string name="title_activity_navigation">Navigation</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+</resources>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/back"
+    tools:context=".MainActivity">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_centerInParent="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:text="@string/logo"
+            android:layout_width="300dp"
+            android:layout_height="200dp"
+            android:textColor="@android:color/white"
+            android:textAlignment="center"
+            android:textSize="43dp"
+            android:textStyle="italic"
+            android:typeface="serif"
+            android:shadowColor="#ff6347"
+            android:shadowRadius="5"
+            android:shadowDx="2"
+            android:shadowDy="2" />
+
+        <TextView
+            android:text="@string/slogan"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:textColor="@android:color/white"
+            android:layout_width="300dp"
+            android:layout_height="match_parent"
+            android:typeface="serif"
+            android:shadowColor="#ff6347"
+            android:shadowRadius="5"
+            android:shadowDx="2"
+            android:shadowDy="2"/>
+
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:weightSum="2"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_width="wrap_content"
+
+        android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/btnMainSignUP"
+            android:layout_width="120dp"
+            android:layout_margin="20dp"
+            android:layout_height="wrap_content"
+            android:text="SignUp"
+            android:shadowColor="@android:color/holo_red_dark"
+            android:background="@color/gold"
+            />
+
+
+        <Button
+            android:id="@+id/btnMainSignIn"
+            android:layout_width="120dp"
+            android:layout_margin="20dp"
+            android:layout_height="wrap_content"
+            android:shadowColor="@android:color/holo_red_dark"
+            android:background="@color/gold"
+            android:text="SignIn" />
+
+    </LinearLayout>
+
+</RelativeLayout>

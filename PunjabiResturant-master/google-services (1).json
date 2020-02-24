@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "888652994148",
+    "firebase_url": "https://punjabresturant-e6d71.firebaseio.com",
+    "project_id": "punjabresturant-e6d71",
+    "storage_bucket": "punjabresturant-e6d71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888652994148:android:9b2840e7607757c2",
+        "android_client_info": {
+          "package_name": "com.project.punjabresturant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888652994148-do3b301krlm0674j5mpe2bcnr86lubso.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project.punjabresturant",
+            "certificate_hash": "636e38e0e4bf75939840f01f6a6e054a5dac4969"
+          }
+        },
+        {
+          "client_id": "888652994148-l03uhvbhrmki4p6u5kh39rf63ddnql7b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPE8q-3Pn4eir5-HaxQ5B9RJFaAtmzyQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888652994148-l03uhvbhrmki4p6u5kh39rf63ddnql7b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
